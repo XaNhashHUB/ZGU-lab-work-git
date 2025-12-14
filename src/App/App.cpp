@@ -6,8 +6,10 @@ int Summ(int num1, int num2) {
     return num1 + num2;
 }
 
-void PrintSumm(int a, int b) {
-    cout << Summ(a, b);
+
+void PrintResult(int num1, int num2) {
+    cout << num1 << " + " << num2 << " = " << Summ(num1, num2) << endl;
+
 }
 
 int main()
@@ -15,6 +17,8 @@ int main()
     std::cout << "Hello everybody!\n";
 
     PrintSumm(1, 9);
+
+    PrintResult(5, 5);
 
     return 0;
 }
