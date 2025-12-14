@@ -66,7 +66,6 @@ ZGU-lab-work-git/
 <img width="1753" height="1537" alt="5 7" src="https://github.com/user-attachments/assets/2948dc5a-749e-461d-b58f-b9d6cad69091" />
 <img width="3756" height="1183" alt="конфликт решен" src="https://github.com/user-attachments/assets/52a00650-66ff-4d46-817e-547dabaec709" />
 <img width="2009" height="1171" alt="решение после PR 5 7" src="https://github.com/user-attachments/assets/26ba9f0d-9a65-4036-9896-cf3fe6300377" />
-![тег в desktop](https://github.com/user-attachments/assets/c8d0aa79-5442-4682-bf0c-476b5df84a71)
 
 
 ### ✅ Шаг 6: Теги и релизы
