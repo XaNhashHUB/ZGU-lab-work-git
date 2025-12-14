@@ -16,7 +16,7 @@ int main()
 {
     std::cout << "Hello everybody!\n";
 
-    PrintSumm(1, 9);
+    PrintResult(1, 9);
 
     PrintResult(5, 5);
 
