@@ -6,13 +6,17 @@ int Summ(int num1, int num2) {
     return num1 + num2;
 }
 
+
 void PrintResult(int num1, int num2) {
     cout << num1 << " + " << num2 << " = " << Summ(num1, num2) << endl;
+
 }
 
 int main()
 {
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello everybody!\n";
+
+    PrintSumm(1, 9);
 
     PrintResult(5, 5);
 
