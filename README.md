@@ -1,9 +1,6 @@
-![тег в desktop](https://github.com/user-attachments/assets/53da8097-1405-412f-b84e-9ce4b34922a2)# 📚 ZGU Лабораторная работа №2 - Работа с Git на GitHub
+# 📚 ZGU Лабораторная работа №2 - Работа с Git на GitHub
 
 ![GitHub](https://img.shields.io/badge/Лаба-Сделана-32CD32?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Мастерство-FF6B35?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Профи-24292e?style=flat-square)
-
 **Лабораторная работа по освоению Git и GitHub** - практическое выполнение всех этапов работы с системой контроля версий.
 
 ## 🎯 Цель работы
